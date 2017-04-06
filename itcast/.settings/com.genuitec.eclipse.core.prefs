@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=src/itcast/login/conf/login-struts.xml,WebRoot/js/ueditor
+validator.Unchecked=
